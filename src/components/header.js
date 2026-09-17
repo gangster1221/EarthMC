@@ -21,14 +21,14 @@ class Header extends Component {
             GitHub
           </a>
           <span> | </span>
-          <a href="https://discord.gg/r7Tuerq" target="_blank" rel="noopener noreferrer">
-            2b2t Mapart Discord
+          <a href="https://discord.gg/earthmcnet" target="_blank" rel="noopener noreferrer">
+            EarthMC Discord Server
           </a>
         </h3>
         <p>
           {getLocaleString("DESCRIPTION/1")}
-          <a href="https://www.reddit.com/r/2b2t/" target="_blank" rel="noopener noreferrer">
-            2b2t
+          <a href="https://www.reddit.com/r/EarthMC/" target="_blank" rel="noopener noreferrer">
+            EarthMC
           </a>
           {getLocaleString("DESCRIPTION/2")}
           <br></br>
