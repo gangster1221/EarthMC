@@ -11,7 +11,7 @@ class Materials extends Component {
             sortMaterials: true,
           };
 
-  alphaColorIdx = 61;
+  alphaColorIdx = 62;
 
   onOnlyMaxPerSplitChange = () => {
     this.setState((currentState) => ({
